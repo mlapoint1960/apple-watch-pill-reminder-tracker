@@ -5,6 +5,6 @@ the app addresses the pain point, of:
 remembering to load a pill tray every week/day
 manage medications and time they need to be taken
 
-manage meds via the phone app. but works in conjustion with the watch app
+manage meds via the phone app. but works in conjuction with the watch app
 
 price $0.99
